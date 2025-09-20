@@ -205,7 +205,172 @@ description: Complete digital marketing foundations with bulletproof Jekyll site
     </div>
 </section>
 
-<!-- Features Section continues... -->
-<!-- Contact Section continues... -->
+<!-- Features Section -->
+<section class="py-16 bg-white">
+    <div class="max-w-4xl mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center mb-12">
+            What's Included in Your {{ site.pricing.setup_price }} Setup
+        </h2>
+        <div class="grid md:grid-cols-2 gap-8">
+            <div class="space-y-6">
+                <div class="flex items-start">
+                    <svg class="w-6 h-6 text-green-500 mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                    <div>
+                        <h3 class="font-bold">Complete Competitor Analysis</h3>
+                        <p class="text-gray-600">Deep research of your top 10 competitors' keywords, content strategy, and positioning</p>
+                    </div>
+                </div>
+                <div class="flex items-start">
+                    <svg class="w-6 h-6 text-green-500 mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                    <div>
+                        <h3 class="font-bold">6-Month Keyword Strategy</h3>
+                        <p class="text-gray-600">Strategic keyword roadmap targeting your competitors' weaknesses</p>
+                    </div>
+                </div>
+                <div class="flex items-start">
+                    <svg class="w-6 h-6 text-green-500 mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                    <div>
+                        <h3 class="font-bold">Lightning-Fast Jekyll Website</h3>
+                        <p class="text-gray-600">Custom-designed, mobile-optimized site that loads in under 1 second</p>
+                    </div>
+                </div>
+                <div class="flex items-start">
+                    <svg class="w-6 h-6 text-green-500 mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                    <div>
+                        <h3 class="font-bold">Enterprise Analytics Setup</h3>
+                        <p class="text-gray-600">Google Analytics 4, Google Tag Manager, and compliance-ready tracking</p>
+                    </div>
+                </div>
+            </div>
+            <div class="space-y-6">
+                <div class="flex items-start">
+                    <svg class="w-6 h-6 text-green-500 mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                    <div>
+                        <h3 class="font-bold">Google Ads Prep Sheet</h3>
+                        <p class="text-gray-600">Ready-to-launch ad campaigns targeting your competitor keywords</p>
+                    </div>
+                </div>
+                <div class="flex items-start">
+                    <svg class="w-6 h-6 text-green-500 mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                    <div>
+                        <h3 class="font-bold">Perfect Lighthouse Scores</h3>
+                        <p class="text-gray-600">100/100 performance, accessibility, and SEO scores guaranteed</p>
+                    </div>
+                </div>
+                <div class="flex items-start">
+                    <svg class="w-6 h-6 text-green-500 mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                    <div>
+                        <h3 class="font-bold">Zero Security Vulnerabilities</h3>
+                        <p class="text-gray-600">No plugins, no database, no hacking - bulletproof by design</p>
+                    </div>
+                </div>
+                <div class="flex items-start">
+                    <svg class="w-6 h-6 text-green-500 mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                    <div>
+                        <h3 class="font-bold">White-Glove Management</h3>
+                        <p class="text-gray-600">We handle everything - you focus on your business</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Monthly Service Section -->
+<section class="py-16 bg-blue-50">
+    <div class="max-w-4xl mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center mb-12">
+            {{ site.pricing.monthly_price }}/Month Strategic Content & Optimization
+        </h2>
+        <div class="grid md:grid-cols-2 gap-8">
+            <div class="bg-white p-6 rounded-lg">
+                <h3 class="text-xl font-bold mb-4 text-blue-600">2 Strategic Articles Monthly</h3>
+                <ul class="space-y-2 text-gray-700">
+                    <li>• Target your competitor keywords</li>
+                    <li>• Position you as the authority</li>
+                    <li>• Drive qualified traffic</li>
+                    <li>• Convert visitors to customers</li>
+                </ul>
+            </div>
+            <div class="bg-white p-6 rounded-lg">
+                <h3 class="text-xl font-bold mb-4 text-blue-600">Continuous Optimization</h3>
+                <ul class="space-y-2 text-gray-700">
+                    <li>• Performance monitoring</li>
+                    <li>• Strategy adjustments</li>
+                    <li>• Competitor tracking</li>
+                    <li>• Analytics reporting</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Testimonials Section -->
+<section class="py-16 bg-gray-50">
+    <div class="max-w-4xl mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center mb-12">
+            What Clients Say About Our Jekyll Sites
+        </h2>
+        <div class="grid md:grid-cols-2 gap-8">
+            <div class="bg-white p-6 rounded-lg">
+                <div class="text-yellow-400 mb-4">★★★★★</div>
+                <p class="text-gray-700 mb-4 italic">
+                    "Our Jekyll site loads instantly and we've seen a 40% increase in conversions. The white-glove service means I never worry about maintenance or security."
+                </p>
+                <p class="font-semibold">- Digital Marketing Agency Owner</p>
+            </div>
+            <div class="bg-white p-6 rounded-lg">
+                <div class="text-yellow-400 mb-4">★★★★★</div>
+                <p class="text-gray-700 mb-4 italic">
+                    "Finally outranking our WordPress competitors. The strategic content and competitor analysis gave us the edge we needed."
+                </p>
+                <p class="font-semibold">- SaaS Company Founder</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- FAQ Section -->
+<section class="py-16 bg-white">
+    <div class="max-w-4xl mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center mb-12">
+            Frequently Asked Questions
+        </h2>
+        <div class="space-y-8">
+            <div>
+                <h3 class="text-xl font-bold mb-3">Why Jekyll instead of WordPress?</h3>
+                <p class="text-gray-700">Jekyll sites are 10x faster, infinitely more secure, and require zero maintenance. WordPress is vulnerable, slow, and constantly needs updates that break functionality.</p>
+            </div>
+            <div>
+                <h3 class="text-xl font-bold mb-3">What if I need to make changes?</h3>
+                <p class="text-gray-700">That's what the white-glove service is for. Send us your changes and we implement them immediately. No learning curve, no broken sites from amateur edits.</p>
+            </div>
+            <div>
+                <h3 class="text-xl font-bold mb-3">How do you create the content strategy?</h3>
+                <p class="text-gray-700">We analyze your top 10 competitors using enterprise SEO tools, identify their keyword gaps, and create content that positions you as the superior choice.</p>
+            </div>
+            <div>
+                <h3 class="text-xl font-bold mb-3">Can I see my analytics?</h3>
+                <p class="text-gray-700">Absolutely. We set up enterprise-grade analytics with Google Analytics 4 and provide you with full access to all performance data.</p>
+            </div>
+        </div>
+    </div>
+</section>
 
 {% include contact-form.html %}
