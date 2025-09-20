@@ -1,49 +1,43 @@
-# Site Settings
+# Site settings
 title: LocallyKnown.pro
-description: Professional web services for local businesses. Custom websites, SEO, and digital marketing solutions.
-url: https://locallyknown.pro
-baseurl: ""
+email: hello@locallyknown.pro
+description: >-
+  White-glove Jekyll websites that outrank WordPress. Complete digital marketing foundations
+  with competitor analysis, strategic content, and bulletproof analytics.
+baseurl: "/locallyknown.pro"
+url: "https://gtmsetupservice.github.io"
 
-# SEO Settings
-tagline: Grow Your Local Business Online
-author:
-  name: LocallyKnown.pro
-  email: support@locallyknown.pro
+# Company info
+company:
+  name: "B and B Holdings LLC"
+  dba: "LocallyKnown.pro"
+  location: "Wyoming, USA"
 
-# Jekyll Configuration
+# Service pricing
+pricing:
+  setup_price: "$4,500"
+  monthly_price: "$800"
+  setup_description: "Complete digital foundation setup"
+  monthly_description: "Strategic content & optimization"
+
+# Build settings
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title/
-
-# Plugins
+highlighter: rouge
+permalink: pretty
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Collections
 collections:
-  testimonials:
+  includes:
     output: false
 
 # Defaults
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: "pages"
     values:
-      layout: "post"
-      author: "LocallyKnown.pro"
-
-# Analytics (to be configured)
-google_analytics: # GA4 Measurement ID
-gtm_container: # GTM Container ID
-
-# CRM Settings
-crm_endpoint: # Your FluentCRM API endpoint
-crm_api_key: # Your FluentCRM API key
-
-# Service-specific settings
-service_type: local_business
-emergency_price: "$997"
-audit_price: "$1,297"
-monitoring_price: "$297/month"
+      layout: "default"
