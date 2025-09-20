@@ -5,7 +5,7 @@ description: Complete digital marketing foundations with bulletproof Jekyll site
 ---
 
 <!-- Hero Section -->
-<section class="relative text-white py-20" style="background: url('{{ site.baseurl }}/assets/images/hero-background.jpg') center/cover; background-attachment: fixed;">
+<section class="relative text-white py-20" style="background: url('/locallyknown.pro/assets/images/hero-background.jpg') center/cover; background-attachment: fixed;">
     <div class="absolute inset-0 bg-gradient-to-r from-blue-900/90 to-purple-900/90"></div>
     <div class="relative z-10 max-w-6xl mx-auto px-4 text-center">
         <h1 class="text-5xl font-bold mb-6">
