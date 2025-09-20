@@ -212,6 +212,7 @@ description: Complete digital marketing foundations with bulletproof Jekyll site
         <h2 class="text-3xl font-bold text-center mb-12">
             What's Included in Your {{ site.pricing.setup_price }} Setup
         </h2>
+        <p class="text-center text-gray-600 mb-8">Complete setup delivered within 7-10 business days</p>
         <div class="grid md:grid-cols-2 gap-8">
             <div class="space-y-6">
                 <div class="flex items-start">
@@ -285,7 +286,7 @@ description: Complete digital marketing foundations with bulletproof Jekyll site
                     </svg>
                     <div>
                         <h3 class="font-bold">White-Glove Management</h3>
-                        <p class="text-gray-600">We handle everything - you focus on your business</p>
+                        <p class="text-gray-600">Site updates within 1-2 business days - you focus on your business</p>
                     </div>
                 </div>
             </div>
@@ -360,7 +361,7 @@ description: Complete digital marketing foundations with bulletproof Jekyll site
             </div>
             <div>
                 <h3 class="text-xl font-bold mb-3">What if I need to make changes?</h3>
-                <p class="text-gray-700">That's what the white-glove service is for. Send us your changes and we implement them immediately. No learning curve, no broken sites from amateur edits.</p>
+                <p class="text-gray-700">That's what the white-glove service is for. Send us your site changes and we implement them within 1-2 business days. No learning curve, no broken sites from amateur edits.</p>
             </div>
             <div>
                 <h3 class="text-xl font-bold mb-3">How do you create the content strategy?</h3>
