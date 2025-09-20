@@ -44,34 +44,66 @@ To prove that Jekyll websites consistently outperform WordPress in speed, securi
 
 ## Our Complete Service Package
 
+<div class="bg-blue-50 p-8 rounded-lg my-8">
+
 ### Setup Phase ({{ site.pricing.setup_price }})
 
+<div class="grid md:grid-cols-2 gap-8 mt-6">
+<div>
+
 **Strategic Foundation:**
-- Complete competitor analysis of your top 10 competitors
-- 6-month keyword strategy targeting competitor weaknesses
-- Google Ads preparation sheet with ready-to-launch campaigns
-- Market positioning strategy to differentiate your business
+<ul class="mt-3 space-y-2">
+<li>• Complete competitor analysis of your top 10 competitors</li>
+<li>• 6-month keyword strategy targeting competitor weaknesses</li>
+<li>• Google Ads preparation sheet with ready-to-launch campaigns</li>
+<li>• Market positioning strategy to differentiate your business</li>
+</ul>
+
+</div>
+<div>
 
 **Technical Excellence:**
-- Custom Jekyll website with lightning-fast performance
-- Enterprise Google Analytics 4 and Google Tag Manager setup
-- Perfect Lighthouse scores (100/100 across all metrics)
-- Mobile-first responsive design with conversion optimization
-- GDPR/CCPA compliance and accessibility standards
+<ul class="mt-3 space-y-2">
+<li>• Custom Jekyll website with lightning-fast performance</li>
+<li>• Enterprise Google Analytics 4 and Google Tag Manager setup</li>
+<li>• Perfect Lighthouse scores (100/100 across all metrics)</li>
+<li>• Mobile-first responsive design with conversion optimization</li>
+<li>• GDPR/CCPA compliance and accessibility standards</li>
+</ul>
+
+</div>
+</div>
+</div>
+
+<div class="bg-green-50 p-8 rounded-lg my-8">
 
 ### Monthly Service ({{ site.pricing.monthly_price }}/month)
 
+<div class="grid md:grid-cols-2 gap-8 mt-6">
+<div>
+
 **Strategic Content:**
-- 2 expertly-written articles monthly targeting your competitor keywords
-- Content designed to position you as the superior choice
-- SEO optimization for maximum search visibility
-- Strategic internal linking to boost overall site authority
+<ul class="mt-3 space-y-2">
+<li>• 2 expertly-written articles monthly targeting your competitor keywords</li>
+<li>• Content designed to position you as the superior choice</li>
+<li>• SEO optimization for maximum search visibility</li>
+<li>• Strategic internal linking to boost overall site authority</li>
+</ul>
+
+</div>
+<div>
 
 **Ongoing Optimization:**
-- Performance monitoring and optimization
-- Competitor keyword tracking and strategy adjustments
-- Analytics reporting and insights
-- Technical maintenance and updates
+<ul class="mt-3 space-y-2">
+<li>• Performance monitoring and optimization</li>
+<li>• Competitor keyword tracking and strategy adjustments</li>
+<li>• Analytics reporting and insights</li>
+<li>• Technical maintenance and updates</li>
+</ul>
+
+</div>
+</div>
+</div>
 
 ## What Sets Us Apart
 
@@ -98,12 +130,16 @@ To prove that Jekyll websites consistently outperform WordPress in speed, securi
 
 ## Our Process
 
-1. **Discovery & Analysis** - We research your competitors and identify keyword opportunities
-2. **Strategic Planning** - 6-month roadmap targeting competitor weaknesses
-3. **Jekyll Development** - Lightning-fast, secure website optimized for conversions
-4. **Analytics Setup** - Enterprise tracking with Google Analytics 4 and GTM
-5. **Content Strategy** - Monthly articles positioning you against competitors
-6. **Ongoing Optimization** - Continuous monitoring and strategy refinement
+<div class="bg-white border-2 border-gray-200 p-8 rounded-lg my-8">
+<ol class="space-y-4">
+<li><strong>Discovery & Analysis</strong> - We research your competitors and identify keyword opportunities</li>
+<li><strong>Strategic Planning</strong> - 6-month roadmap targeting competitor weaknesses</li>
+<li><strong>Jekyll Development</strong> - Lightning-fast, secure website optimized for conversions</li>
+<li><strong>Analytics Setup</strong> - Enterprise tracking with Google Analytics 4 and GTM</li>
+<li><strong>Content Strategy</strong> - Monthly articles positioning you against competitors</li>
+<li><strong>Ongoing Optimization</strong> - Continuous monitoring and strategy refinement</li>
+</ol>
+</div>
 
 ## Company Information
 
