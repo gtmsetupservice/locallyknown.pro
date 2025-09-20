@@ -6,15 +6,15 @@ description: LocallyKnown.pro specializes in white-glove Jekyll websites that ou
 
 <div class="max-w-4xl mx-auto px-4 py-16">
 
-<h1 class="text-4xl font-bold mb-6">About LocallyKnown.pro</h1>
+# About LocallyKnown.pro
 
-<p class="text-lg mb-8">LocallyKnown.pro is a specialized Jekyll website development company dedicated to helping businesses dominate their competition with lightning-fast, secure websites and strategic digital marketing foundations.</p>
+LocallyKnown.pro is a specialized Jekyll website development company dedicated to helping businesses dominate their competition with lightning-fast, secure websites and strategic digital marketing foundations.
 
-<h2 class="text-3xl font-bold mb-4 mt-8">Our Mission</h2>
+## Our Mission
 
-<p class="mb-8">To prove that Jekyll websites consistently outperform WordPress in speed, security, and conversions while providing white-glove service that eliminates all technical headaches for business owners.</p>
+To prove that Jekyll websites consistently outperform WordPress in speed, security, and conversions while providing white-glove service that eliminates all technical headaches for business owners.
 
-<h2 class="text-3xl font-bold mb-4 mt-8">Why We Chose Jekyll Over WordPress</h2>
+## Why We Chose Jekyll Over WordPress
 
 <div class="grid md:grid-cols-2 gap-8 my-12">
     <div class="bg-red-50 p-6 rounded-lg">
@@ -42,11 +42,11 @@ description: LocallyKnown.pro specializes in white-glove Jekyll websites that ou
     </div>
 </div>
 
-<h2 class="text-3xl font-bold mb-4 mt-8">Our Complete Service Package</h2>
+## Our Complete Service Package
 
 <div class="bg-blue-50 p-8 rounded-lg my-8">
 
-<h3 class="text-2xl font-bold mb-4">Setup Phase ({{ site.pricing.setup_price }})</h3>
+### Setup Phase ({{ site.pricing.setup_price }})
 
 <div class="grid md:grid-cols-2 gap-8 mt-6">
 <div>
@@ -77,7 +77,7 @@ description: LocallyKnown.pro specializes in white-glove Jekyll websites that ou
 
 <div class="bg-green-50 p-8 rounded-lg my-8">
 
-<h3 class="text-2xl font-bold mb-4">Monthly Service ({{ site.pricing.monthly_price }}/month)</h3>
+### Monthly Service ({{ site.pricing.monthly_price }}/month)
 
 <div class="grid md:grid-cols-2 gap-8 mt-6">
 <div>
@@ -105,7 +105,7 @@ description: LocallyKnown.pro specializes in white-glove Jekyll websites that ou
 </div>
 </div>
 
-<h2 class="text-3xl font-bold mb-4 mt-8">What Sets Us Apart</h2>
+## What Sets Us Apart
 
 <div class="bg-gray-50 p-8 rounded-lg my-12">
     <h3 class="text-2xl font-bold mb-6 text-center">The LocallyKnown.pro Difference</h3>
@@ -128,7 +128,7 @@ description: LocallyKnown.pro specializes in white-glove Jekyll websites that ou
     </div>
 </div>
 
-<h2 class="text-3xl font-bold mb-4 mt-8">Our Process</h2>
+## Our Process
 
 <div class="bg-white border-2 border-gray-200 p-8 rounded-lg my-8">
 <ol class="space-y-4">
@@ -141,7 +141,7 @@ description: LocallyKnown.pro specializes in white-glove Jekyll websites that ou
 </ol>
 </div>
 
-<h2 class="text-3xl font-bold mb-4 mt-8">Company Information</h2>
+## Company Information
 
 <div class="bg-white border-2 border-gray-200 p-8 rounded-lg my-12">
     <p class="mb-6 text-lg">LocallyKnown.pro is a division of <strong>B and B Holdings LLC</strong>, a Wyoming limited liability company specializing in high-performance web development and strategic digital marketing.</p>
@@ -163,7 +163,7 @@ description: LocallyKnown.pro specializes in white-glove Jekyll websites that ou
     </div>
 </div>
 
-<h2 class="text-3xl font-bold mb-4 mt-8">Ready to Outrank Your WordPress Competitors?</h2>
+## Ready to Outrank Your WordPress Competitors?
 
 <div class="text-center py-8">
     <p class="text-xl mb-6">Stop losing to slower, less secure WordPress sites. Get your complete digital foundation.</p>
