@@ -4,8 +4,8 @@ email: hello@locallyknown.pro
 description: >-
   White-glove Jekyll websites that outrank WordPress. Complete digital marketing foundations
   with competitor analysis, strategic content, and bulletproof analytics.
-baseurl: "/locallyknown.pro"
-url: "https://gtmsetupservice.github.io"
+baseurl: ""
+url: "https://gtmsetupservice.github.io/locallyknown.pro"
 
 # Company info
 company:
