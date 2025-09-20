@@ -297,7 +297,7 @@ description: Complete digital marketing foundations with bulletproof Jekyll site
 <section class="py-16 bg-blue-50">
     <div class="max-w-4xl mx-auto px-4">
         <h2 class="text-3xl font-bold text-center mb-12">
-            {{ site.pricing.monthly_price }}/Month Strategic Content & Optimization
+            {{ site.pricing.monthly_price }}/Month - 2 Strategic Content Pieces
         </h2>
         <div class="grid md:grid-cols-2 gap-8">
             <div class="bg-white p-6 rounded-lg">
