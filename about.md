@@ -6,15 +6,15 @@ description: LocallyKnown.pro specializes in white-glove Jekyll websites that ou
 
 <div class="max-w-4xl mx-auto px-4 py-16">
 
-# About LocallyKnown.pro
+<h1>About LocallyKnown.pro</h1>
 
-LocallyKnown.pro is a specialized Jekyll website development company dedicated to helping businesses dominate their competition with lightning-fast, secure websites and strategic digital marketing foundations.
+<p>LocallyKnown.pro is a specialized Jekyll website development company dedicated to helping businesses dominate their competition with lightning-fast, secure websites and strategic digital marketing foundations.</p>
 
-## Our Mission
+<h2>Our Mission</h2>
 
-To prove that Jekyll websites consistently outperform WordPress in speed, security, and conversions while providing white-glove service that eliminates all technical headaches for business owners.
+<p>To prove that Jekyll websites consistently outperform WordPress in speed, security, and conversions while providing white-glove service that eliminates all technical headaches for business owners.</p>
 
-## Why We Chose Jekyll Over WordPress
+<h2>Why We Chose Jekyll Over WordPress</h2>
 
 <div class="grid md:grid-cols-2 gap-8 my-12">
     <div class="bg-red-50 p-6 rounded-lg">
@@ -42,16 +42,16 @@ To prove that Jekyll websites consistently outperform WordPress in speed, securi
     </div>
 </div>
 
-## Our Complete Service Package
+<h2>Our Complete Service Package</h2>
 
 <div class="bg-blue-50 p-8 rounded-lg my-8">
 
-### Setup Phase ({{ site.pricing.setup_price }})
+<h3>Setup Phase ({{ site.pricing.setup_price }})</h3>
 
 <div class="grid md:grid-cols-2 gap-8 mt-6">
 <div>
 
-**Strategic Foundation:**
+<strong>Strategic Foundation:</strong>
 <ul class="mt-3 space-y-2">
 <li>• Complete competitor analysis of your top 10 competitors</li>
 <li>• 6-month keyword strategy targeting competitor weaknesses</li>
@@ -62,7 +62,7 @@ To prove that Jekyll websites consistently outperform WordPress in speed, securi
 </div>
 <div>
 
-**Technical Excellence:**
+<strong>Technical Excellence:</strong>
 <ul class="mt-3 space-y-2">
 <li>• Custom Jekyll website with lightning-fast performance</li>
 <li>• Enterprise Google Analytics 4 and Google Tag Manager setup</li>
@@ -77,12 +77,12 @@ To prove that Jekyll websites consistently outperform WordPress in speed, securi
 
 <div class="bg-green-50 p-8 rounded-lg my-8">
 
-### Monthly Service ({{ site.pricing.monthly_price }}/month)
+<h3>Monthly Service ({{ site.pricing.monthly_price }}/month)</h3>
 
 <div class="grid md:grid-cols-2 gap-8 mt-6">
 <div>
 
-**Strategic Content:**
+<strong>Strategic Content:</strong>
 <ul class="mt-3 space-y-2">
 <li>• 2 expertly-written articles monthly targeting your competitor keywords</li>
 <li>• Content designed to position you as the superior choice</li>
@@ -93,7 +93,7 @@ To prove that Jekyll websites consistently outperform WordPress in speed, securi
 </div>
 <div>
 
-**Ongoing Optimization:**
+<strong>Ongoing Optimization:</strong>
 <ul class="mt-3 space-y-2">
 <li>• Performance monitoring and optimization</li>
 <li>• Competitor keyword tracking and strategy adjustments</li>
@@ -105,7 +105,7 @@ To prove that Jekyll websites consistently outperform WordPress in speed, securi
 </div>
 </div>
 
-## What Sets Us Apart
+<h2>What Sets Us Apart</h2>
 
 <div class="bg-gray-50 p-8 rounded-lg my-12">
     <h3 class="text-2xl font-bold mb-6 text-center">The LocallyKnown.pro Difference</h3>
@@ -128,7 +128,7 @@ To prove that Jekyll websites consistently outperform WordPress in speed, securi
     </div>
 </div>
 
-## Our Process
+<h2>Our Process</h2>
 
 <div class="bg-white border-2 border-gray-200 p-8 rounded-lg my-8">
 <ol class="space-y-4">
@@ -141,7 +141,7 @@ To prove that Jekyll websites consistently outperform WordPress in speed, securi
 </ol>
 </div>
 
-## Company Information
+<h2>Company Information</h2>
 
 <div class="bg-white border-2 border-gray-200 p-8 rounded-lg my-12">
     <p class="mb-6 text-lg">LocallyKnown.pro is a division of <strong>B and B Holdings LLC</strong>, a Wyoming limited liability company specializing in high-performance web development and strategic digital marketing.</p>
@@ -163,7 +163,7 @@ To prove that Jekyll websites consistently outperform WordPress in speed, securi
     </div>
 </div>
 
-## Ready to Outrank Your WordPress Competitors?
+<h2>Ready to Outrank Your WordPress Competitors?</h2>
 
 <div class="text-center py-8">
     <p class="text-xl mb-6">Stop losing to slower, less secure WordPress sites. Get your complete digital foundation.</p>
