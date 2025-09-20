@@ -1,169 +1,211 @@
 ---
 layout: default
-title: Emergency GTM Recovery & Tracking Fixes
-description: GTM not working? Get emergency recovery in 2-4 hours. Fix broken Google Tag Manager and restore conversion tracking. $497 fixed price.
+title: LocallyKnown.pro - White-Glove Jekyll Websites That Outrank WordPress
+description: Complete digital marketing foundations with bulletproof Jekyll sites, competitor analysis, strategic content, and enterprise analytics. $4,500 setup + $800/month.
 ---
 
-{% include hero.html %}
-{% include quick-wins.html %}
-{% include problem-agitation.html %}
-{% include solution-intro.html %}
-{% include benefits.html %}
+<!-- Hero Section -->
+<section class="gradient-bg text-white py-20">
+    <div class="max-w-6xl mx-auto px-4 text-center">
+        <h1 class="text-5xl font-bold mb-6">
+            Stop Losing to Competitors with Slow WordPress Sites
+        </h1>
+        <p class="text-xl mb-8 opacity-90 max-w-3xl mx-auto">
+            White-glove Jekyll websites that load in 0.8 seconds, rank higher than WordPress, and include complete digital marketing foundations. No plugins, no malware, no self-management required.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+            <a href="#contact" class="bg-green-500 hover:bg-green-600 text-white font-bold py-4 px-8 rounded-lg text-lg transition">
+                Get Started - {{ site.pricing.setup_price }}
+            </a>
+            <a href="#comparison" class="border-2 border-white text-white hover:bg-white hover:text-gray-900 font-bold py-4 px-8 rounded-lg text-lg transition">
+                See Why Jekyll Wins
+            </a>
+        </div>
+        <p class="text-sm opacity-75 mt-4">Complete setup + first month for {{ site.pricing.setup_price }}</p>
+    </div>
+</section>
 
-<!-- Section 6: Testimonials -->
-<section class="py-16 bg-gray-50">
-    <div class="max-w-6xl mx-auto px-4">
-        <h2 class="text-3xl font-bold text-center mb-12">
-            What Our Clients Say
+<!-- Problem Section -->
+<section class="py-16 bg-red-50">
+    <div class="max-w-4xl mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center mb-12 text-red-600">
+            Why Most Business Websites Fail
         </h2>
-
-        <div class="grid md:grid-cols-3 gap-8">
-            <div class="bg-white p-6 rounded-lg shadow">
-                <div class="flex mb-4">
-                    {% for i in (1..5) %}
-                    <svg class="w-5 h-5 text-yellow-400 fill-current" viewBox="0 0 20 20">
-                        <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
-                    </svg>
-                    {% endfor %}
-                </div>
-                <p class="mb-4">"Fixed our conversion tracking in 3 hours. Now we can see which ads actually work. Worth every penny."</p>
-                <p class="font-semibold">- Sarah M., E-commerce Director</p>
+        <div class="grid md:grid-cols-2 gap-8">
+            <div class="bg-white p-6 rounded-lg border-l-4 border-red-500">
+                <h3 class="text-xl font-bold mb-3 text-red-600">WordPress Websites Are Broken</h3>
+                <ul class="space-y-2 text-gray-700">
+                    <li>• 3-8 second load times kill conversions</li>
+                    <li>• 43% of sites get hacked annually</li>
+                    <li>• Plugin conflicts break functionality</li>
+                    <li>• Requires constant maintenance</li>
+                    <li>• Poor mobile performance</li>
+                </ul>
             </div>
-
-            <div class="bg-white p-6 rounded-lg shadow">
-                <div class="flex mb-4">
-                    {% for i in (1..5) %}
-                    <svg class="w-5 h-5 text-yellow-400 fill-current" viewBox="0 0 20 20">
-                        <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
-                    </svg>
-                    {% endfor %}
-                </div>
-                <p class="mb-4">"Google Ads showed zero conversions for weeks. They identified the exact problem and fixed it same day."</p>
-                <p class="font-semibold">- Mike R., SaaS Founder</p>
-            </div>
-
-            <div class="bg-white p-6 rounded-lg shadow">
-                <div class="flex mb-4">
-                    {% for i in (1..5) %}
-                    <svg class="w-5 h-5 text-yellow-400 fill-current" viewBox="0 0 20 20">
-                        <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
-                    </svg>
-                    {% endfor %}
-                </div>
-                <p class="mb-4">"Professional, fast, and they explained everything. No more guessing about campaign performance."</p>
-                <p class="font-semibold">- Jennifer L., Marketing Manager</p>
+            <div class="bg-white p-6 rounded-lg border-l-4 border-red-500">
+                <h3 class="text-xl font-bold mb-3 text-red-600">Amateur Marketing Destroys ROI</h3>
+                <ul class="space-y-2 text-gray-700">
+                    <li>• No competitor analysis strategy</li>
+                    <li>• Random content that doesn't convert</li>
+                    <li>• Broken analytics and tracking</li>
+                    <li>• Wasted ad spend on wrong keywords</li>
+                    <li>• Zero strategic positioning</li>
+                </ul>
             </div>
         </div>
     </div>
 </section>
 
-<!-- Section 7: Simple 3-Step Process -->
-<section class="py-16">
-    <div class="max-w-6xl mx-auto px-4">
-        <h2 class="text-3xl font-bold text-center mb-12">
-            How We Fix Your GTM in 3 Simple Steps
+<!-- Solution Section -->
+<section class="py-16 bg-blue-50">
+    <div class="max-w-4xl mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center mb-12 text-blue-600">
+            The LocallyKnown.pro Complete Foundation
         </h2>
-
-        <div class="grid md:grid-cols-3 gap-8">
-            <div class="text-center">
-                <div class="bg-blue-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <span class="text-2xl font-bold text-blue-600">1</span>
-                </div>
-                <h3 class="text-xl font-semibold mb-3">You Tell Us What's Broken</h3>
-                <p class="text-gray-600">
-                    Fill out our quick form or call us. Describe your tracking problem.
-                    We'll ask a few questions to understand the issue.
-                </p>
+        <div class="grid md:grid-cols-2 gap-8">
+            <div class="bg-white p-6 rounded-lg border-l-4 border-blue-500">
+                <h3 class="text-xl font-bold mb-3 text-blue-600">Bulletproof Jekyll Website</h3>
+                <ul class="space-y-2 text-gray-700">
+                    <li>• 0.8 second load times guaranteed</li>
+                    <li>• 100% secure (no plugins, no database)</li>
+                    <li>• Perfect mobile optimization</li>
+                    <li>• 99.9% uptime with global CDN</li>
+                    <li>• Zero maintenance required</li>
+                </ul>
             </div>
-
-            <div class="text-center">
-                <div class="bg-green-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <span class="text-2xl font-bold text-green-600">2</span>
-                </div>
-                <h3 class="text-xl font-semibold mb-3">We Diagnose & Fix Everything</h3>
-                <p class="text-gray-600">
-                    Our 4-layer diagnostic finds the exact problem. We fix it, test it,
-                    and make sure your data flows correctly.
-                </p>
-            </div>
-
-            <div class="text-center">
-                <div class="bg-purple-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <span class="text-2xl font-bold text-purple-600">3</span>
-                </div>
-                <h3 class="text-xl font-semibold mb-3">You Get Perfect Tracking</h3>
-                <p class="text-gray-600">
-                    Sit back and watch accurate conversion data flow into GA4 and Google Ads.
-                    Optimize campaigns with confidence.
-                </p>
+            <div class="bg-white p-6 rounded-lg border-l-4 border-blue-500">
+                <h3 class="text-xl font-bold mb-3 text-blue-600">Strategic Marketing Foundation</h3>
+                <ul class="space-y-2 text-gray-700">
+                    <li>• Complete competitor analysis</li>
+                    <li>• 6-month keyword strategy</li>
+                    <li>• 2 strategic articles monthly</li>
+                    <li>• Google Ads preparation sheet</li>
+                    <li>• Enterprise analytics setup</li>
+                </ul>
             </div>
         </div>
     </div>
 </section>
 
-<!-- Section 8: Pricing/Services -->
-<section class="py-16 bg-gray-50">
+<!-- Comparison Section -->
+<section id="comparison" class="py-16 bg-gray-50">
     <div class="max-w-6xl mx-auto px-4">
         <h2 class="text-3xl font-bold text-center mb-12">
-            Choose Your GTM Service
+            WordPress vs Jekyll vs LocallyKnown.pro
         </h2>
-
-        <div class="grid md:grid-cols-3 gap-8">
-            <div class="bg-white p-8 rounded-lg shadow border-2 border-red-500">
-                <div class="text-center">
-                    <h3 class="text-2xl font-bold mb-2 text-red-600">🚨 EMERGENCY</h3>
-                    <p class="text-4xl font-bold mb-4">$497</p>
-                    <p class="text-gray-600 mb-6">Fixed Price</p>
-                    <ul class="text-left space-y-3 mb-8">
-                        <li>✓ 2-4 hour response time</li>
-                        <li>✓ Complete tracking restoration</li>
-                        <li>✓ Root cause analysis</li>
-                        <li>✓ Prevention measures</li>
-                        <li>✓ Full documentation</li>
-                    </ul>
-                    <a href="#contact" class="block w-full bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-6 rounded text-center">
-                        Get Emergency Fix
-                    </a>
+        <div class="comparison-grid">
+            <!-- WordPress Column -->
+            <div class="bg-white rounded-lg p-6 border">
+                <h3 class="text-xl font-bold mb-4 text-red-600 text-center">WordPress Agency</h3>
+                <div class="space-y-3">
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Setup Cost:</span>
+                        <span class="font-semibold">$3,000-8,000</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Monthly:</span>
+                        <span class="font-semibold">$200-500</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Load Time:</span>
+                        <span class="text-red-600 font-semibold">3-8 seconds</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Security:</span>
+                        <span class="text-red-600 font-semibold">Vulnerable</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Maintenance:</span>
+                        <span class="text-red-600 font-semibold">Constant</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Strategy:</span>
+                        <span class="text-red-600 font-semibold">Basic/None</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Content:</span>
+                        <span class="text-red-600 font-semibold">DIY</span>
+                    </div>
                 </div>
             </div>
 
-            <div class="bg-white p-8 rounded-lg shadow">
-                <div class="text-center">
-                    <h3 class="text-2xl font-bold mb-2">Comprehensive Audit</h3>
-                    <p class="text-4xl font-bold mb-4">$797</p>
-                    <p class="text-gray-600 mb-6">Complete Analysis</p>
-                    <ul class="text-left space-y-3 mb-8">
-                        <li>✓ 4-layer diagnostic audit</li>
-                        <li>✓ Performance optimization</li>
-                        <li>✓ Security review</li>
-                        <li>✓ Detailed findings report</li>
-                        <li>✓ Implementation roadmap</li>
-                    </ul>
-                    <a href="#contact" class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded text-center">
-                        Get Full Audit
-                    </a>
+            <!-- DIY Jekyll Column -->
+            <div class="bg-white rounded-lg p-6 border">
+                <h3 class="text-xl font-bold mb-4 text-yellow-600 text-center">DIY Jekyll</h3>
+                <div class="space-y-3">
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Setup Cost:</span>
+                        <span class="font-semibold">$0 (Your Time)</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Monthly:</span>
+                        <span class="font-semibold">$0 (Your Time)</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Load Time:</span>
+                        <span class="text-green-600 font-semibold">Fast</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Security:</span>
+                        <span class="text-green-600 font-semibold">Excellent</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Maintenance:</span>
+                        <span class="text-yellow-600 font-semibold">Learning Curve</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Strategy:</span>
+                        <span class="text-red-600 font-semibold">None</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Content:</span>
+                        <span class="text-red-600 font-semibold">DIY</span>
+                    </div>
                 </div>
             </div>
 
-            <div class="bg-white p-8 rounded-lg shadow">
-                <div class="text-center">
-                    <h3 class="text-2xl font-bold mb-2">Monthly Monitoring</h3>
-                    <p class="text-4xl font-bold mb-4">$197</p>
-                    <p class="text-gray-600 mb-6">Per Month</p>
-                    <ul class="text-left space-y-3 mb-8">
-                        <li>✓ Proactive monitoring</li>
-                        <li>✓ Break detection alerts</li>
-                        <li>✓ Monthly health reports</li>
-                        <li>✓ Priority support access</li>
-                        <li>✓ Optimization recommendations</li>
-                    </ul>
-                    <a href="#contact" class="block w-full bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-6 rounded text-center">
-                        Start Monitoring
-                    </a>
+            <!-- LocallyKnown.pro Column -->
+            <div class="bg-gradient-to-b from-green-50 to-blue-50 rounded-lg p-6 border-2 border-green-500 relative">
+                <div class="absolute -top-3 left-1/2 transform -translate-x-1/2 bg-green-500 text-white px-4 py-1 rounded-full text-sm font-bold">
+                    BEST VALUE
+                </div>
+                <h3 class="text-xl font-bold mb-4 text-green-600 text-center">LocallyKnown.pro</h3>
+                <div class="space-y-3">
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Setup Cost:</span>
+                        <span class="font-semibold text-green-600">{{ site.pricing.setup_price }}</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Monthly:</span>
+                        <span class="font-semibold text-green-600">{{ site.pricing.monthly_price }}</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Load Time:</span>
+                        <span class="text-green-600 font-semibold">0.8 seconds</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Security:</span>
+                        <span class="text-green-600 font-semibold">Bulletproof</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Maintenance:</span>
+                        <span class="text-green-600 font-semibold">White-Glove</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Strategy:</span>
+                        <span class="text-green-600 font-semibold">Complete</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Content:</span>
+                        <span class="text-green-600 font-semibold">Expert-Written</span>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<!-- Features Section continues... -->
+<!-- Contact Section continues... -->
 
 {% include contact-form.html %}

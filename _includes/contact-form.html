@@ -1,15 +1,15 @@
-<!-- Contact Form with FluentCRM Integration -->
+<!-- Contact Section -->
 <section id="contact" class="py-16 bg-blue-600 text-white">
     <div class="max-w-4xl mx-auto px-4">
         <div class="text-center mb-12">
-            <h2 class="text-3xl font-bold mb-4">Get Your GTM Fixed Today</h2>
+            <h2 class="text-3xl font-bold mb-4">Ready to Dominate Your Competition?</h2>
             <p class="text-xl opacity-90">
-                Tell us about your tracking problem. We'll diagnose and fix it within 2-4 hours.
+                Complete digital foundation setup for {{ site.pricing.setup_price }} + {{ site.pricing.monthly_price }}/month strategic content
             </p>
         </div>
 
         <div class="bg-white rounded-lg p-8 text-gray-900">
-            <form id="gtm-contact-form" class="space-y-6">
+            <form id="contact-form" class="space-y-6">
                 <div class="grid md:grid-cols-2 gap-6">
                     <div>
                         <label for="name" class="block text-sm font-medium text-gray-700 mb-2">
@@ -28,60 +28,66 @@
                 </div>
 
                 <div>
-                    <label for="website" class="block text-sm font-medium text-gray-700 mb-2">
-                        Website URL *
+                    <label for="phone" class="block text-sm font-medium text-gray-700 mb-2">
+                        Phone Number *
                     </label>
-                    <input type="url" id="website" name="website" required placeholder="https://yoursite.com"
+                    <input type="tel" id="phone" name="phone" required placeholder="(555) 123-4567"
                            class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent">
                 </div>
 
                 <div>
-                    <label for="problem" class="block text-sm font-medium text-gray-700 mb-2">
-                        What's your GTM problem? *
+                    <label for="website" class="block text-sm font-medium text-gray-700 mb-2">
+                        Current Website (if any)
                     </label>
-                    <select id="problem" name="problem" required
+                    <input type="url" id="website" name="website" placeholder="https://yoursite.com"
+                           class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent">
+                </div>
+
+                <div>
+                    <label for="business_type" class="block text-sm font-medium text-gray-700 mb-2">
+                        Type of Business *
+                    </label>
+                    <select id="business_type" name="business_type" required
                             class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent">
-                        <option value="">Select your situation</option>
-                        <option value="emergency">🚨 EMERGENCY: Tracking completely down</option>
-                        <option value="partial">Tags fire but no data in GA4/Google Ads</option>
-                        <option value="conversion">Conversion tracking not working</option>
-                        <option value="server-side">Need server-side GTM setup</option>
-                        <option value="audit">Want comprehensive tracking audit</option>
-                        <option value="other">Other GTM issue</option>
+                        <option value="">Select your business type</option>
+                        <option value="professional_services">Professional Services</option>
+                        <option value="ecommerce">E-commerce</option>
+                        <option value="saas">SaaS/Technology</option>
+                        <option value="healthcare">Healthcare</option>
+                        <option value="real_estate">Real Estate</option>
+                        <option value="finance">Finance/Legal</option>
+                        <option value="other">Other</option>
                     </select>
                 </div>
 
                 <div>
-                    <label for="details" class="block text-sm font-medium text-gray-700 mb-2">
-                        Additional Details (Optional)
+                    <label for="competitors" class="block text-sm font-medium text-gray-700 mb-2">
+                        Who are your main competitors?
                     </label>
-                    <textarea id="details" name="details" rows="4" placeholder="Tell us more about your tracking issues..."
+                    <textarea id="competitors" name="competitors" rows="3" placeholder="List 2-3 competitors we should analyze..."
                               class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"></textarea>
                 </div>
 
-                <!-- Hidden fields for segmentation -->
-                <input type="hidden" name="service_type" value="gtm">
-                <input type="hidden" name="source_domain" value="{{ site.url }}">
-                <input type="hidden" id="utm_source" name="utm_source" value="">
-                <input type="hidden" id="utm_medium" name="utm_medium" value="">
-                <input type="hidden" id="utm_campaign" name="utm_campaign" value="">
+                <!-- Hidden fields -->
+                <input type="hidden" name="service_type" value="jekyll_foundation">
+                <input type="hidden" name="source_domain" value="locallyknown.pro">
 
                 <button type="submit" id="submit-btn"
                         class="w-full bg-green-500 hover:bg-green-600 text-white font-bold py-4 px-8 rounded-lg text-lg transition duration-200">
-                    Get Emergency GTM Fix - $497
+                    Get My Digital Foundation - {{ site.pricing.setup_price }}
                 </button>
 
                 <p class="text-sm text-gray-600 text-center">
-                    We'll respond within 30 minutes during business hours
+                    We'll respond within 2 hours with a custom competitor analysis preview
                 </p>
             </form>
 
             <!-- Success/Error Messages -->
             <div id="form-success" class="hidden mt-6 p-4 bg-green-100 border border-green-400 text-green-700 rounded">
-                ✅ Thanks! We'll diagnose your GTM issue and get back to you within 30 minutes.
+                ✅ Thanks! We'll send you a competitor analysis preview within 2 hours.
             </div>
             <div id="form-error" class="hidden mt-6 p-4 bg-red-100 border border-red-400 text-red-700 rounded">
-                ❌ Something went wrong. Please try again or email us directly.
+                ❌ Something went wrong. Please try again or email hello@locallyknown.pro
             </div>
         </div>
     </div>
