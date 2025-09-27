@@ -8,7 +8,7 @@ description: Complete digital marketing foundations with bulletproof static site
 <section class="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-20">
     <div class="max-w-6xl mx-auto px-4">
         <div class="text-center">
-        <h1 class="text-5xl font-bold mb-6">
+        <h1 class="text-5xl font-bold mb-6 text-white">
             Stop Losing to Competitors with Slow WordPress Sites
         </h1>
         <p class="text-xl mb-8 opacity-90 max-w-3xl mx-auto">
