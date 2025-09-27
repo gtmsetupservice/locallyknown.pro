@@ -5,8 +5,11 @@ description: Complete digital marketing foundations with bulletproof static site
 ---
 
 <!-- Hero Section -->
-<section class="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-20">
-    <div class="max-w-6xl mx-auto px-4">
+<section class="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-24 relative overflow-hidden">
+    <!-- Background SVG Pattern -->
+    <div class="absolute inset-0 opacity-10" style="background-image: url('/assets/images/bg-hero-static.svg'); background-size: cover; background-position: center;"></div>
+
+    <div class="max-w-6xl mx-auto px-4 relative z-10">
         <div class="text-center">
         <h1 class="text-5xl font-bold mb-6 text-white">
             Stop Losing to Competitors with Slow WordPress Sites
@@ -15,7 +18,7 @@ description: Complete digital marketing foundations with bulletproof static site
             White-glove static websites that load in 0.8 seconds, rank higher than WordPress, and include complete digital marketing foundations with AI-optimized content flywheels. No plugins, no malware, no self-management required.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <a href="#contact" class="bg-green-500 hover:bg-green-600 text-white font-bold py-4 px-8 rounded-lg text-lg transition">
+            <a href="#contact" class="bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white font-bold py-4 px-10 rounded-xl text-lg shadow-xl hover:shadow-2xl transform hover:-translate-y-1 transition-all duration-200">
                 Get Started - $1,995
             </a>
             <a href="#comparison" class="border-2 border-white text-white hover:bg-white hover:text-blue-800 font-bold py-4 px-8 rounded-lg text-lg transition">
@@ -164,6 +167,9 @@ description: Complete digital marketing foundations with bulletproof static site
 
 <!-- Solution Section -->
 <section class="py-20 bg-gradient-to-br from-blue-50 via-green-25 to-blue-100 relative overflow-hidden">
+    <!-- Background Pattern -->
+    <div class="absolute inset-0 opacity-20" style="background-image: url('/assets/images/bg-green-pattern.svg'); background-size: cover; background-position: center;"></div>
+
     <!-- Background Elements -->
     <div class="absolute inset-0 opacity-10">
         <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
