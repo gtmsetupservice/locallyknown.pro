@@ -7,7 +7,7 @@ description: Complete digital marketing foundations with bulletproof static site
 <!-- Hero Section -->
 <section class="bg-gradient-to-r from-blue-600 to-blue-800 text-white relative overflow-hidden">
     <!-- Enhanced wave transition with depth -->
-    <div class="absolute bottom-0 left-0 right-0 h-48 z-20" style="background-image: url('/assets/images/bg-hero-wave.svg'); background-size: cover; background-position: top; background-repeat: no-repeat;"></div>
+    <div class="absolute bottom-0 left-0 right-0 h-48 z-20" style="background-image: url('/assets/images/bg-wave-blue-to-gray.svg'); background-size: cover; background-position: top; background-repeat: no-repeat;"></div>
 
     <!-- Content wrapper with proper padding -->
     <div class="py-24 relative">
