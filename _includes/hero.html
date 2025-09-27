@@ -1,6 +1,15 @@
 <!-- Section 1: Hero Section (Above the Fold) -->
-<section class="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-20">
-    <div class="max-w-6xl mx-auto px-4">
+<section class="bg-gradient-to-r from-blue-600 to-blue-800 text-white relative overflow-hidden">
+    <!-- Full hero bubble background -->
+    <div class="absolute inset-0" style="background-image: url('/assets/images/bg-hero-bubbles.svg'); background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
+
+    <!-- Enhanced wave transition to red gradient -->
+    <div class="absolute bottom-0 left-0 right-0 h-48" style="background-image: url('/assets/images/bg-wave-blue-to-red-gradient.svg'); background-size: cover; background-position: top; background-repeat: no-repeat;"></div>
+
+    <!-- Content wrapper with proper padding -->
+    <div class="pt-24 pb-32 relative">
+
+    <div class="max-w-6xl mx-auto px-4 relative z-10">
         <!-- Eyebrow Copy -->
         <p class="text-sm uppercase tracking-wide mb-4 opacity-90">
             For Businesses Losing Revenue to Broken Tracking
@@ -33,5 +42,6 @@
             </div>
             <p class="text-sm opacity-90">247+ GTM emergencies resolved</p>
         </div>
+    </div>
     </div>
 </section>
