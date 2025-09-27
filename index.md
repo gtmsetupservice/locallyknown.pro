@@ -5,10 +5,12 @@ description: Complete digital marketing foundations with bulletproof static site
 ---
 
 <!-- Hero Section -->
-<section class="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-24 relative overflow-hidden">
-    <!-- Background SVG Pattern -->
-    <div class="absolute inset-0 opacity-10" style="background-image: url('/assets/images/bg-hero-static.svg'); background-size: cover; background-position: center;"></div>
+<section class="bg-gradient-to-r from-blue-600 to-blue-800 text-white relative overflow-hidden">
+    <!-- Enhanced wave transition with depth -->
+    <div class="absolute bottom-0 left-0 right-0 h-48 z-20" style="background-image: url('/assets/images/bg-hero-wave.svg'); background-size: cover; background-position: top; background-repeat: no-repeat;"></div>
 
+    <!-- Content wrapper with proper padding -->
+    <div class="py-24 relative">
     <div class="max-w-6xl mx-auto px-4 relative z-10">
         <div class="text-center">
         <h1 class="text-5xl font-bold mb-6 text-white">
@@ -27,6 +29,7 @@ description: Complete digital marketing foundations with bulletproof static site
         </div>
         <p class="text-sm opacity-75 mt-4">Complete setup + first 2 content pieces</p>
         </div>
+    </div>
     </div>
 </section>
 
