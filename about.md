@@ -4,7 +4,7 @@ title: About Locally Known Pro - Static Website Specialists
 description: Locally Known Pro specializes in white-glove static websites that outperform WordPress. Complete digital marketing foundations with strategic content and bulletproof analytics.
 ---
 
-<div class="container mx-auto px-4 py-16">
+<div class="container mx-auto px-4 py-16" markdown="1">
 
 # About Locally Known Pro
 
@@ -159,7 +159,7 @@ To prove that static websites consistently outperform WordPress in speed, securi
 
 ## Ready to Outrank Your WordPress Competitors?
 
-<div class="text-center py-8">
+<div class="text-center py-8 bg-gradient-to-r from-orange-600 to-red-600 text-white rounded-lg">
   <p class="text-xl mb-6">Stop losing to slower, less secure WordPress sites. Get your complete digital foundation.</p>
   <a href="/#contact" class="inline-block bg-green-500 hover:bg-green-600 text-white font-bold py-4 px-8 rounded-lg text-lg transition">
     Get Started - $1,995
