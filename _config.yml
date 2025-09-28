@@ -15,8 +15,8 @@ company:
 
 # Service pricing
 pricing:
-  setup_price: "$3,257"
-  monthly_price: "$697"
+  setup_price: "$1,995"
+  monthly_price: "$297"
   setup_description: "Complete digital foundation setup"
   monthly_description: "2 strategic content pieces & optimization"
 

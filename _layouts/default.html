@@ -13,6 +13,11 @@
     <!-- SEO -->
     {% seo %}
 
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&display=swap" rel="stylesheet">
+
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
 
@@ -104,6 +109,24 @@
         }
         .btn-primary:hover {
             background-color: #059669;
+        }
+
+        /* Pricing Effects */
+        .line-through {
+            text-decoration: line-through;
+            text-decoration-color: #dc2626;
+            text-decoration-thickness: 2px;
+            font-size: 1.25em;
+        }
+        .handwritten {
+            font-family: 'Kalam', cursive;
+            position: relative;
+            color: #ef4444 !important;
+            font-weight: bold;
+            transform: rotate(-1deg);
+            display: inline-block;
+            margin-left: 4px;
+            font-size: 1.25em;
         }
     </style>
 </head>
