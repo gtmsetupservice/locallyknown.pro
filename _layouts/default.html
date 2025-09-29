@@ -144,6 +144,15 @@
             font-size: 1.25em;
         }
     </style>
+
+    <!-- Structured Data -->
+    {%- include structured-data-organization.html -%}
+    {%- include structured-data-breadcrumb.html -%}
+    {%- include structured-data-article.html -%}
+    {%- if page.url == "/" -%}
+      {%- include structured-data-faq.html -%}
+      {%- include structured-data-reviews.html -%}
+    {%- endif -%}
 </head>
 <body class="bg-white">
     {% include header.html %}
